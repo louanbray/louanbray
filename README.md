@@ -4,9 +4,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=louanbray&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
 
-<p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louanbray&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
+
 <!--
 **louanbray/louanbray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
